@@ -3,5 +3,5 @@
 * For a startup check out our [Create UI phase here]
   
 # Example of a pull request
-* Two branches are required,meaning one is the local and the main to be the remote branch. If the local branch requests it is informing the main branch of the new changes it made that would need the main branch to be up to date with (the latest local branch updates). This proceedure makes code merging and CI/CD to be possible.
+* Two branches are required,meaning one is the local and the main to be the remote branch. If the local branch requests it is informing the main branch of the new changes it made that would need the main branch to be up to date with (the latest local branch updates). This proceedure makes code merging and CI/CD to be possible.Before the merge the main branch will have to approve.
 
